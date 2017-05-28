@@ -1,0 +1,37 @@
+[Adblock Plus 2.0]
+! Title: I don't care about Go to up buttons
+! A filter list for Adblock Plus for remove "Go to up" buttons
+! Expires: 1 days
+! Homepage: https://github.com/Manu1400/i-don-t-care-about-gotoup-btns/
+!
+!----------------------- Filtres génériques ----------------------!
+!
+!------------------ Éléments génériques -----------------!
+##.gotop
+###scroll_top
+!
+!----------------------- Éléments -----------------------!
+!
+20min.ch##.pagetop
+aeroport-baden-baden.fr###totop
+clashofclans.fr###toTopHover, #toTop, .SedoGoToTop
+webperformancetoday.com##.gototop
+keacrea.com##DIV[id="scrollTop"]
+commandersact.com##A[id="scrollUp"]
+untappedcities.com##.scroll-button
+lepoint.fr##.go-top-button
+hatvp.fr###go-top
+start.lesechos.fr##.btn-scrolltop
+pinkoutloud.co##.go-top.show
+toulouse.fr###scrollUp, .scrollup
+buzzfeed.com###back_to_top
+lentreprise.lexpress.fr##.scroll_to_top
+guadeloupe.franceantilles.fr##.scrollup
+silicon.fr##.single-scroll-top
+lequipe.fr##.btn-scroll-top.js-btn-scroll-top
+ter.sncf.com##.back-top
+saint-maur.com###back_top
+! Éléments non génériques
+propelorm.org##DIV[class="jumper"]
+! Lien retour
+sibra.fr###lien-retour
