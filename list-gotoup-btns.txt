@@ -9,6 +9,7 @@
 !------------------ Éléments génériques -----------------!
 ##.gotop
 ###scroll_top
+##.go-top
 !------------------ Plugins Wordpress --------------------!
 /plugins/gp-back-to-top/
 /plugins/simple-back-to-top/
@@ -35,7 +36,6 @@ untappedcities.com##.scroll-button
 lepoint.fr##.go-top-button
 hatvp.fr###go-top
 start.lesechos.fr##.btn-scrolltop
-pinkoutloud.co##.go-top
 toulouse.fr###scrollUp, .scrollup
 buzzfeed.com###back_to_top
 lentreprise.lexpress.fr##.scroll_to_top
