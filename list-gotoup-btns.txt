@@ -10,7 +10,15 @@
 ##.gotop
 ###scroll_top
 !------------------ Plugins Wordpress --------------------!
+/plugins/gp-back-to-top/
+/plugins/simple-back-to-top/
+/plugins/to-top/
 /plugins/wpfront-scroll-top/
+/plugins/simple-scroll-to-top/
+/plugins/scroll-back-to-top/
+/plugins/cs-backtop/
+/plugins/ams-page-scroll-back-to-top/
+/plugins/scroll-top-advanced/
 !------------------ Images ------------------------------!
 ||pingoo.com/wp-content/uploads/2015/03/scrolltotop.png
 !
@@ -43,10 +51,12 @@ jobz.pk###move-to-top
 osu.campusparc.com##.back-to-top
 jslefebvre.eu##.window-scrolled .footer-scroll-top
 mandmdirect.fr##.back2top
-actus.elle.fr###scroll_top
 zalando.fr##.backToTopButton
 ecoaveyron.fr##.tn-back-top
+ideedudesir.fr###toTop
+mecatran.com###toTop
 ! Éléments non génériques
 propelorm.org##DIV[class="jumper"]
 ! Lien retour
 sibra.fr###lien-retour
+tresor.economie.gouv.fr###backToTopLink
