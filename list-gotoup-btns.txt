@@ -20,10 +20,11 @@
 /plugins/ams-page-scroll-back-to-top/
 /plugins/scroll-top-advanced/
 !------------------ Images ------------------------------!
-||pingoo.com/wp-content/uploads/2015/03/scrolltotop.png
+
 !
 !----------------------- Éléments -----------------------!
 !
+pingoo.com###topcontrol
 20min.ch##.pagetop
 aeroport-baden-baden.fr###totop
 clashofclans.fr###toTopHover, #toTop, .SedoGoToTop
