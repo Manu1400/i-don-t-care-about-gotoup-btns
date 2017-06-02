@@ -9,6 +9,10 @@
 !------------------ Éléments génériques -----------------!
 ##.gotop
 ###scroll_top
+!------------------ Plugins Wordpress --------------------!
+/plugins/wpfront-scroll-top/
+!------------------ Images ------------------------------!
+||pingoo.com/wp-content/uploads/2015/03/scrolltotop.png
 !
 !----------------------- Éléments -----------------------!
 !
@@ -22,7 +26,7 @@ untappedcities.com##.scroll-button
 lepoint.fr##.go-top-button
 hatvp.fr###go-top
 start.lesechos.fr##.btn-scrolltop
-pinkoutloud.co##.go-top.show
+pinkoutloud.co##.go-top
 toulouse.fr###scrollUp, .scrollup
 buzzfeed.com###back_to_top
 lentreprise.lexpress.fr##.scroll_to_top
@@ -31,6 +35,17 @@ silicon.fr##.single-scroll-top
 lequipe.fr##.btn-scroll-top.js-btn-scroll-top
 ter.sncf.com##.back-top
 saint-maur.com###back_top
+clashofclans.fr###toTopHover
+clashofclans.fr###toTop, .SedoGoToTop.normal.JsOnly
+blackpressusa.com###gototop
+sandre.eaufrance.fr###toTheTop
+jobz.pk###move-to-top
+osu.campusparc.com##.back-to-top
+jslefebvre.eu##.window-scrolled .footer-scroll-top
+mandmdirect.fr##.back2top
+actus.elle.fr###scroll_top
+zalando.fr##.backToTopButton
+ecoaveyron.fr##.tn-back-top
 ! Éléments non génériques
 propelorm.org##DIV[class="jumper"]
 ! Lien retour
