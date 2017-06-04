@@ -10,6 +10,7 @@
 ##.gotop
 ###scroll_top
 ##.go-top
+##.back-to-top
 !------------------ Plugins Wordpress --------------------!
 /plugins/gp-back-to-top/
 /plugins/simple-back-to-top/
@@ -49,13 +50,14 @@ clashofclans.fr###toTop, .SedoGoToTop.normal.JsOnly
 blackpressusa.com###gototop
 sandre.eaufrance.fr###toTheTop
 jobz.pk###move-to-top
-osu.campusparc.com##.back-to-top
 jslefebvre.eu##.window-scrolled .footer-scroll-top
 mandmdirect.fr##.back2top
 zalando.fr##.backToTopButton
 ecoaveyron.fr##.tn-back-top
 ideedudesir.fr###toTop
 mecatran.com###toTop
+etourisme.info##.td-scroll-up
+francetvinfo.fr###backToTop
 ! Éléments non génériques
 propelorm.org##DIV[class="jumper"]
 ! Lien retour
