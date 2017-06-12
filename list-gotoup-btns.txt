@@ -58,8 +58,10 @@ ideedudesir.fr###toTop
 mecatran.com###toTop
 etourisme.info##.td-scroll-up
 francetvinfo.fr###backToTop
+lesjours.fr##.scroll-top-button
 ! Éléments non génériques
 propelorm.org##DIV[class="jumper"]
+externatic.fr##a.up
 ! Lien retour
 sibra.fr###lien-retour
 tresor.economie.gouv.fr###backToTopLink
