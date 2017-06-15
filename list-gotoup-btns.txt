@@ -4,6 +4,7 @@
 ! Expires: 1 days
 ! Homepage: https://github.com/Manu1400/i-don-t-care-about-gotoup-btns/
 !
+/wp-content/plugins/wpfront-scroll-top/
 !----------------------- Filtres génériques ----------------------!
 !
 !------------------ Éléments génériques -----------------!
@@ -25,6 +26,11 @@
 
 !
 !----------------------- Éléments -----------------------!
+!
+tourisme-castillonpujols.fr,musee-veinazes.com##.cc-FloatingButtonBarContainer-button-scroll
+jobz.pk, hackerlists.com###move-to-top
+etourisme.info, positivr.fr##.td-scroll-up
+ideedudesir.fr, mecatran.com###toTop
 !
 pingoo.com###topcontrol
 20min.ch##.pagetop
@@ -49,16 +55,14 @@ clashofclans.fr###toTopHover
 clashofclans.fr###toTop, .SedoGoToTop.normal.JsOnly
 blackpressusa.com###gototop
 sandre.eaufrance.fr###toTheTop
-jobz.pk###move-to-top
 jslefebvre.eu##.window-scrolled .footer-scroll-top
 mandmdirect.fr##.back2top
 zalando.fr##.backToTopButton
 ecoaveyron.fr##.tn-back-top
-ideedudesir.fr###toTop
-mecatran.com###toTop
-etourisme.info##.td-scroll-up
 francetvinfo.fr###backToTop
 lesjours.fr##.scroll-top-button
+plusdetrains.fr##.rt-totop
+digital.sncf.com###backtop
 ! Éléments non génériques
 propelorm.org##DIV[class="jumper"]
 externatic.fr##a.up
